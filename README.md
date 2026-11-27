@@ -64,4 +64,4 @@ If you train a replacement checkpoint, preserve the classifier’s output order:
 
 ## Source
 
-*Street Objects Detection & Street Location Classification*. Computer Engineering Department, Faculty of Engineering, Pharos University of Alexandria, Spring 2025. Dataset construction and annotation are described in §§3.1–3.1.5, training parameters in Table 2, and classification results in Table 3.
+*Street Objects Detection & Street Location Classification*. Computer Engineering Department, Faculty of Engineering, Pharos University of Alexandria, Spring 2025.
